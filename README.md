@@ -4,3 +4,4 @@
 
 * [쏘프라이즈: 왜 '문송'해야 할까요?](https://soprize.so/question/105) 에 대한 [답변](https://soprize.so/answer/531)입니다.
 * 크롤링 코드 참고: https://medium.com/better-programming/how-to-scrape-tweets-with-snscrape-90124ed006af
+* p값 계산 코드 참고: https://towardsdatascience.com/statistical-significance-with-the-help-of-python-1fbb318ce216
