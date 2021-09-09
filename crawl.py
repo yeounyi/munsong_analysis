@@ -34,7 +34,7 @@ tweets_df = pd.DataFrame(tweets_list, columns=['Datetime', 'Text'])
 
 
 # Export dataframe into a CSV
-tweets_df.to_csv('문과라서18.csv', sep=',', index=False)
+tweets_df.to_csv('문과라서.csv', sep=',', index=False)
 
 
 # Creating list to append tweet data to
@@ -51,4 +51,4 @@ tweets_df = pd.DataFrame(tweets_list, columns=['Datetime', 'Text'])
 
 
 # Export dataframe into a CSV
-tweets_df.to_csv('이과라서18.csv', sep=',', index=False)
+tweets_df.to_csv('이과라서.csv', sep=',', index=False)
